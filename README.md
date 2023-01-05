@@ -26,6 +26,8 @@
 3.Get a Confirmation Email
 4.Attend Events
 
+
+
 ## PROJECT NAME
 GDSC-ZHCET Android Application
 
@@ -49,12 +51,13 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 
 ### Technologies used
-
 1.Kotlin
 2.JAVA Android App Development
 3.Firebase
 
 ### Prizes
+
+
 
 
 
