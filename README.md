@@ -19,8 +19,7 @@
 8.GDG / GDE expert talks
 
 
-## ![GDSC](![GDSC_ZHCET_Centered](https://user-images.githubusercontent.com/113046400/210727248-11dbb6c1-8ec0-482f-9555-40cd59339b9f.png)
-) How to join ?
+## How to join ?
 
 1.Create a Profile
 2.Join the Chapter
