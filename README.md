@@ -5,7 +5,6 @@
 ## About GDSC ZHCET.
 Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. By joining a GDSC, students get access to Google Developer resources, build their personal and professional network, and work together to build solutions for local problems in a peer-to-peer learning environment.
 
-<hr>
 <br/>
 
 ## PROJECT DESCRIPTION
@@ -28,7 +27,6 @@ Extra features that may be added as the project grows
 </li>
 </ul>
 
-<hr>
 <br/>
 
 ## INSTALLING THE PROJECT
@@ -36,16 +34,14 @@ Extra features that may be added as the project grows
 Follow the given process before starting the work on the project:
 
 <ol>
-<li>Fork the repository</li>
-<li>
-Clone the repository in your local system
-<pre>git clone git@github.com:your-username/GDSC-ZHCET-AndroidApp.git</pre>
-</li>
-<li>Open the cloned folder in <a href="https://developer.android.com/studio">Android Studio</a></li>
-<li>Run the following command in the terminal to install</li>
+<li>Install android studio (Dolphin) version 2021.3.1 or latest</li>
+<li>Select GET FROM VCS option on new project tab 
+<img width="1430" alt="Screenshot 2023-01-09 at 7 28 07 PM" src="https://user-images.githubusercontent.com/91687355/211325379-7271d046-3aec-4b3c-ad90-27ff58e102be.png"></li>
+<li>Select target folder and clone project either directly from GDSC-ZHCET git-hub profile or forked project from personal profile</li>
+<li>Wait for sometime and allow android studio to download all required dependencies</li>
+<li>Boom!!! it was so simple, Start Contribution!</li>
 </ol>
 
-<hr>
 <br/>
 
 ## CONTRIBUTING
@@ -63,7 +59,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 <pre>git push origin feature/feature-name</pre>
 5. Open a Pull Request.
 
-<hr>
 <br/>
 
 ## ELIGIBILITY
@@ -83,7 +78,6 @@ Must know the basics of Android Application Development
 </li>
 </ul>
 
-<hr>
 <br/>
 
 ## TECHNOLOGIES USED
@@ -108,7 +102,6 @@ Git and GitHub
 </li>
 </ul>
 
-<hr>
 <br/>
 
 ## PRIZES
