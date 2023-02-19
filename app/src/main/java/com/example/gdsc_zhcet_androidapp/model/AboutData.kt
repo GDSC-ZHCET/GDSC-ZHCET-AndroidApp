@@ -30,7 +30,7 @@ data class AboutData(
     val partnersImage: List<Int> = listOf(
         R.drawable.gdsclogo,
         R.drawable.msla,
-        R.drawable.valtech,
+        R.drawable.gdsc_veltech,
         R.drawable.codechef
     )
 )
